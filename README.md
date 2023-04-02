@@ -1,8 +1,8 @@
-[![MasterHead](https://tenor.com/bFru0.gif)](https://andrew-mandillah.vercel.app/)
+[![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://andrew-mandillah.vercel.app/)
 
 <h1 align="center">Hi 👋, I'm Andrew Mandillah</h1>
 <h3 align="center">A fullstack MERN Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/bFru0.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <p align="left"> <a href="https://twitter.com/mandillahjr" target="blank"><img src="https://img.shields.io/twitter/follow/mandillahjr?logo=twitter&style=for-the-badge" alt="mandillahjr" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
