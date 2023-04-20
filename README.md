@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **andrewmandillah@gmail.com**
 
-- 📄 Know about my experiences [https://andrew-mandillah.vercel.app/](https://andrew-mandillah.vercel.app/)
+- 📄 Check Out My Portfolio [https://andrewmandillah.vercel.app/](https://andrewmandillah.vercel.app/)
 
 - ⚡ Fun fact **Some believe I am genius**
 
