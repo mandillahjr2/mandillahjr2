@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://andrew-mandillah.vercel.app/](https://andrew-mandillah.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/mandillahjr2/](https://github.com/mandillahjr2/)
 
 - 📝 I regularly write articles on [https://medium.com/?andrewmandillah](https://medium.com/?andrewmandillah)
 
